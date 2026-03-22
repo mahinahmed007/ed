@@ -176,7 +176,7 @@ export default function Dashboard() {
 
       {/* FOOTER */}
       <footer className="mt-20 border-t bg-white/60 backdrop-blur py-6 text-center text-gray-500">
-        © 2026 EduQuiz AI — Premium Learning Experience 🚀
+        © 2026 Ace Path Quiz AI — Premium Learning Experience 🚀
       </footer>
 
     </div>
